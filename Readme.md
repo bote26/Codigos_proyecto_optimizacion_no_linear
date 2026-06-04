@@ -1,1 +1,1 @@
-Codifo realizado en conjunto con el modelo de IA Claude sonnet 4.5
+Código realizado en conjunto con el modelo de IA Claude sonnet 4.5
